@@ -1,7 +1,0 @@
-01. SQL Query
-02. SQL Handson
-03. SQL Query Case Study1
-04. SQL Query Case Study 2
-05. Assignment 1
-06. Assignment 2
-07. Assignment 3
